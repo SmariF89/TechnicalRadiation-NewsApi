@@ -6,9 +6,9 @@ A .NET Core RESTful web API that offers CRUD routes for news items, categories a
 
 ## Start-up
   Using your favorite shell, browse to TechnicalRadiation.WebApi and enter:
-    ```bash
+    
     dotnet build && dotnet run
-    ```
+    
   The project will build and run afterwards on localhost, port 5000.
   
 ## Usage
